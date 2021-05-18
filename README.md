@@ -1,3 +1,5 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <!--
 **octanym/octanym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,8 +18,7 @@
 
 ### Frontend  
 <div align="center">  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-
+  <i class="devicon-html5-plain-wordmark"></i>
 </div>
 
 </td><td valign="top" width="33%">

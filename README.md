@@ -1,13 +1,13 @@
 <!--
 **octanym/octanym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a target="_blank" href="https://www.cameronjmoore.com/"><img src="https://github.com/octanym/octanym/blob/main/header.png" alt="banner that says Cameron"></a>
+<a href="https://www.cameronjmoore.com/" target="_blank"><img src="https://github.com/octanym/octanym/blob/main/header.png" alt="banner that says Cameron"></a>
 
 #### I'm currently:
 #### practicing algo's and data structures with Python 🐍 having nightmares about linked lists 😱 and dreaming about shaders 🔮
 - 🤩 Check out my [portfolio](https://www.cameronjmoore.com/) adapted from Yuri Artyukh's [Scrolling Images tutorial](https://www.youtube.com/watch?v=ivg603bYDk8&t=4062s)
 - 🤔 Ask me about my projects! I hope to learn from my mistakes. When I don't succeed, at the very minimum; I'll aim to 'fail better'
-- <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>or camjmoore@outlook.com is the best way to contact me
+- <a href="https://www.linkedin.com/in/aryclenio-barros-060322135/" target="_blank"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>or camjmoore@outlook.com is the best way to contact me
 
 ## Skillset / Comfort Zone  
 <div align="center">
